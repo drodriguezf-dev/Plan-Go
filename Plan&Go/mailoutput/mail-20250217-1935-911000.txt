@@ -1,0 +1,8 @@
+To: admin@email.com
+Subject: Activa tu cuenta
+From: dwes@php.com
+
+Hola admin!
+
+Gracias por registrarte. Para activar tu cuenta, haz clic en:
+http://localhost:3000/registro/verificar-cuenta.php?email=admin%40email.com&token=340cfe0c0d9f5d0826cd4193830f8269
